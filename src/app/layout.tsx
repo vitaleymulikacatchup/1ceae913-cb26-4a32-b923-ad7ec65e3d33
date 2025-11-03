@@ -77,29 +77,29 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "FC Thunder Football Club - Champions United by Passion",
-  description: "Join FC Thunder Football Club, home to champions with 15 league titles. Discover our legacy of excellence, meet our talented players, and become part of our winning community.",
-  keywords: "football club, FC Thunder, soccer team, community sports, football training, local football, team sports, football academy",
-  metadataBase: new URL("https://fcthunder.com"),
+  title: "Real Madrid Football Club - Champions United by Passion",
+  description: "Join Real Madrid Football Club, home to champions with 15 league titles. Discover our legacy of excellence, meet our talented players, and become part of our winning community.",
+  keywords: "football club, Real Madrid, soccer team, community sports, football training, local football, team sports, football academy",
+  metadataBase: new URL("https://realmadrid.com"),
   alternates: {
-    canonical: "https://fcthunder.com"
+    canonical: "https://realmadrid.com"
   },
   openGraph: {
-    title: "FC Thunder Football Club - Champions United by Passion",
-    description: "Join FC Thunder Football Club, home to champions with 15 league titles. Discover our legacy of excellence and become part of our winning community.",
-    siteName: "FC Thunder",
+    title: "Real Madrid Football Club - Champions United by Passion",
+    description: "Join Real Madrid Football Club, home to champions with 15 league titles. Discover our legacy of excellence and become part of our winning community.",
+    siteName: "Real Madrid",
     images: [
       {
         url: "https://images.pexels.com/photos/9519530/pexels-photo-9519530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        alt: "FC Thunder team celebration"
+        alt: "Real Madrid team celebration"
       }
     ],
     type: "website"
   },
   twitter: {
     card: "summary_large_image",
-    title: "FC Thunder Football Club - Champions United by Passion",
-    description: "Join FC Thunder Football Club, home to champions with 15 league titles.",
+    title: "Real Madrid Football Club - Champions United by Passion",
+    description: "Join Real Madrid Football Club, home to champions with 15 league titles.",
     images: ["https://images.pexels.com/photos/9519530/pexels-photo-9519530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"]
   },
   robots: {
